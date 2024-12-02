@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "CrossPlatform Api",
+  "SystemName": "Misc.CrossPlatformApi",
+  "Version": "4.70.1",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "antargyan team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.CrossPlatformApi.dll",
+  "Description": "cross-platform api"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "CrossPlatform Cart",
+  "SystemName": "Misc.CrossPlatformCart",
+  "Version": "4.70.1",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "antargyan team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.CrossPlatformCart.dll",
+  "Description": "cross-platform cart"
+}
